@@ -1,0 +1,6 @@
+﻿  example.cpp
+C:\Users\abbya\OneDrive\Desktop\ABENA UNIVERSITY UEA\GRAPHICS\CourseWork\example.cpp(74,27): warning C4244: '=': conversion from 'clock_t' to 'float', possible loss of data
+C:\Users\abbya\OneDrive\Desktop\ABENA UNIVERSITY UEA\GRAPHICS\CourseWork\example.cpp(103,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\abbya\OneDrive\Desktop\ABENA UNIVERSITY UEA\GRAPHICS\CourseWork\example.cpp(111,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\abbya\OneDrive\Desktop\ABENA UNIVERSITY UEA\GRAPHICS\CourseWork\example.cpp(117,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Freeglutexample.vcxproj -> C:\Users\abbya\OneDrive\Desktop\ABENA UNIVERSITY UEA\GRAPHICS\CourseWork\x64\Debug\Freeglutexample.exe
